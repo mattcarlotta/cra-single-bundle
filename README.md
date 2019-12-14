@@ -27,6 +27,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn analyze`
+
+Builds a local production of the `build` folder and displays a chunking distribution chart after compilation.
+
 ### `yarn prod`
 
 Runs a local production of the `build` folder.<br /><br />
